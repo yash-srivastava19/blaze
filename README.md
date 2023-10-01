@@ -3,10 +3,10 @@ Access Deployed Blaze Here : [HFSpaces](https://yash-srivastava19-blaze.hf.space
 # blaze
 A Metaphor + Cohere alternative to [perplexity.ai](https://www.perplexity.ai) . Blaze is a chatbot that answers your query, and allows you to learn more on the subject matter with RAG(Retrieval Augmented Generation). Gone are the days of fact checking LLM output, with **Blaze** you can do it all. The value of information is more nowadays, and **Blaze** delivers all of this, for free of cost*    
 
+![Screenshot 2023-09-30 234601](https://github.com/yash-srivastava19/blaze/assets/85068689/afb9f67c-6c5b-43c8-8647-747589d31d7b)
 
-![Screenshot 2023-09-30 234601](https://github.com/yash-srivastava19/blaze/assets/85068689/a8f92f50-79ad-4cad-a000-512fb2293169)
+![Screenshot 2023-09-30 234957](https://github.com/yash-srivastava19/blaze/assets/85068689/d35128b3-b2da-49cf-a9ba-e720a9ade2ca)
 
-![Screenshot 2023-09-30 234957](https://github.com/yash-srivastava19/blaze/assets/85068689/ce372146-fcb5-4160-a4f1-0919fe4b0a0e)
 
 ## Why create something from scratch?
 
